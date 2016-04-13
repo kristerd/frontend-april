@@ -2,11 +2,11 @@
 
 For å kjøre prosjektet:
 
-*Installer Node.js 4 (Node 5 virker ikke for øyeblikket)
-*Kjør `npm install -g cordova ionic`
-*Kjør `npm install`
-*Kjør `bower install`
-*Kjør `ionic serve`
+* Installer Node.js 4 (Node 5 virker ikke for øyeblikket)
+* Kjør `npm install -g cordova ionic`
+* Kjør `npm install`
+* Kjør `bower install`
+* Kjør `ionic serve`
  
 ## Appstax setup
 * Registrer en gratis prøvekonto på appstax.com
