@@ -15,7 +15,9 @@ For å kjøre prosjektet:
 ##Oppgaver
 
 * Bruk Ionic til å stile "Sign in"-knappen lik som på bildet: /img/oppgaver/1.png (http://ionicframework.com/docs/components/)
-* Implementer logikk for å logge inn med Appstax (controllers.signIn())
+* Logg inn i Appstax-grensesnittet (https://appstax.com/admin/) og velg "Storage". Videre velger du "users"-collection, og oppretter en bruker (som du skal bruke i neste oppgave) 
+* Velg Settings -> Domain -> Your allowed domains - Legg til adressen til det lokale ionic-prosjektet (f.eks http://localhost:8100)
+* Implementer logikk for å logge inn med Appstax (controllers.signIn()) - https://appstax.com/docs/javascript-guide.html
 * Skjul innloggingskjema når innlogging er ok, og vis brukernavnet til den innloggede brukeren i stedet for "Welcome User!"
 * Endre Users collection i Appstax-grensesnittet til å også ha samme felter som i dummy-eksempelet (https://appstax.com/admin/#/dashboard/overview -> Velg din app -> Storage -> users)
 * Endre users-fanen til å hente brukerne fra Appstax
